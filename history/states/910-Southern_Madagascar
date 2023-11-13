@@ -1,0 +1,35 @@
+state = {
+	id = 910
+	name = "STATE_910"
+	manpower = 3694611
+	state_category = rural
+
+	resources = {
+        rubber = 5
+        tungstan = 6
+        oil = 10
+	}
+	
+	history = {
+		add_core_of = HIV
+		owner = HIV
+		victory_points = {
+			11015 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+            arms_factory = 1
+            11015 = {
+                supply_node = 1
+            }
+			
+		}
+		controller = HIV
+	}
+	provinces = {
+		5185 11015 10993 8180
+	}
+	local_supplies = 2.0
+
+}
