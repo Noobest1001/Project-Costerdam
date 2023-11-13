@@ -1,0 +1,2 @@
+VRG = "countries/Virginia.txt"
+CAL = "countries/California.txt"
