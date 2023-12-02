@@ -4,7 +4,7 @@ ideologies = {
 			National_Bolchevism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
-			"faction_National_Bolchevism_Bolchevic_Bloc"
+			"faction_NationalBolchevism_Bolchevic_Bloc"
 		}
 		color = { 120 0 0 }
 		war_impact_on_world_tension = 20
