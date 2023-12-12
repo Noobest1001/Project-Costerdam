@@ -821,3 +821,7 @@ VRG = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128}
 }
+CAL = {
+	color = rgb {255 255 237}
+	color_ui = rgb {255 255 237}
+}
