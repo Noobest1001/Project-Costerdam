@@ -1,3 +1,3 @@
 ﻿graphical_culture = european_gfx
 graphical_culture_2d = european_2d
-color = { 255 255 237 }
+color = { 255 255 137 }
