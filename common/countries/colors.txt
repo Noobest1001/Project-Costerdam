@@ -825,3 +825,7 @@ CAL = {
 	color = rgb {255 255 137}
 	color_ui = rgb {255 255 137}
 }
+BPG = {
+	color = rgb {155 155 137}
+	color_ui = rgb {155 155 137}
+}
