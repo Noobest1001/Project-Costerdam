@@ -1,4 +1,4 @@
-oob = "CAL_1936"
+oob = "VRG_1936"
 capital = 9517
 set_research_slots = 3
 set_stability = 0.5

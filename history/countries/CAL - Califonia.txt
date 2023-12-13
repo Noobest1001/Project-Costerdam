@@ -1,4 +1,4 @@
-oob = "CAL_1936"
+oob = "VRG_1936"
 capital = 378
 set_research_slots = 3
 set_stability = 0.5
@@ -21,7 +21,7 @@ add_ideas = {
 #For start date 1939.1.1
 1939.1.1 = {
 	add_political_power = 200
-	oob = "CAL_1939"
+	oob = "VRG_1939"
 }
 
 #Politics for 1936.1.1
