@@ -1,2 +1,3 @@
 VRG = "countries/Virginia.txt"
 CAL = "countries/California.txt"
+BPG = "countries/German Provional Gov.txt"

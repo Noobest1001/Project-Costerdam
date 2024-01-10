@@ -8,16 +8,16 @@ state={
 
 	resources={
 		oil=9
-		#steel=2 moved to Guerrero
+		steel=2
 	}
 	
 	history={
-		owner = MEX
+		owner = VRG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = MEX
+		add_core_of = VRG
 		victory_points = {
 			4956 10
 		}

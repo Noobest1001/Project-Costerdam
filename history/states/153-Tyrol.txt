@@ -3,7 +3,7 @@ state={
 	id=153
 	name="STATE_153"
 	history={
-		owner = AUS
+		owner = BPG
 		victory_points = {
 			673 5 
 		}
@@ -12,11 +12,11 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = AUS
+		add_core_of = BPG
 		1938.3.12 = {
-			owner = GER
-			controller = GER
-			add_core_of = GER
+			owner = BPG
+			controller = BPG
+			add_core_of = BPG
 		}
 	}
 	provinces={

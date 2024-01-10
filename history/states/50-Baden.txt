@@ -7,9 +7,9 @@ state={
 
 	state_category = large_city
 	history={
-		owner = GER
+		owner = BPG
 		victory_points = {
-			9517 20
+			9517 50
 		}
 		victory_points = {
 			11499 3 #10
@@ -30,7 +30,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = GER
+		add_core_of = BPG
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 11
@@ -48,5 +48,5 @@ state={
 	manpower=5086854
 	buildings_max_level_factor=1.000
 
-	local_supplies=0.0 
+	local_supplies= 1.0 
 }
