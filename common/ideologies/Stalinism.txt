@@ -13,11 +13,13 @@ ideologies = {
 			faction_trade_opinion_factor = 100
 		}
 		rules = {
-			can_create_collaboration_government = yes
-			can_declare_war_on_same_ideology = yes
-			can_puppet = yes
-			can_send_volunteers = yes
 			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.35
 		}
 		modifiers = {
 			generate_wargoal_tension = 5

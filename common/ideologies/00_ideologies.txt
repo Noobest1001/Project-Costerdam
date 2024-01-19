@@ -6,10 +6,8 @@ ideologies = {
 			
 			conservatism = {
 			}
-		
 			liberalism = {
 			}
-		
 			socialism = {
 			}
 		}
@@ -24,7 +22,6 @@ ideologies = {
 		}
 		
 		color = { 0 0 255 }
-		
 		rules = {
 			can_declare_war_on_same_ideology = no
 			can_force_government = yes
