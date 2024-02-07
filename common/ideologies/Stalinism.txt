@@ -1,10 +1,10 @@
 ideologies = {
-	National_Bolchevism = {
+	Stalinism = {
 		types = {
-			National_Bolchevism = { can_be_randomly_selected = no }
+			Stalinism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {
-			"faction_NationalBolchevism_Bolchevic_Bloc"
+			"faction_Stalinism_Communist_Bloc"
 		}
 		color = { 120 0 0 }
 		war_impact_on_world_tension = 20

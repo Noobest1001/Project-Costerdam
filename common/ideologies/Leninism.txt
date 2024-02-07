@@ -1,12 +1,7 @@
 ideologies = {
-	hive_mind_ = {
+	leninism = {
 		types = {
-			hivemind_individualism = { can_be_randomly_selected = no }
-			hivemind_collectivism = { can_be_randomly_selected = no }
-			hivemind_monarchism = { can_be_randomly_selected = no }
-			gaian_hivemind = { can_be_randomly_selected = no }
-			hivemind_capitalism = { can_be_randomly_selected = no }
-			hivemind_voluntarism = { can_be_randomly_selected = no }
+			leninism = {can_be_randomly_selected = no}
 		}
 		dynamic_faction_names = {
 			"faction_hive_mind__the_hive"
