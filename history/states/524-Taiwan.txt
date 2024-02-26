@@ -4,7 +4,7 @@ state=
 	name="STATE_524"
 	manpower = 4592537
 	
-	state_category = large_town
+	state_category = metropolis
 	history=
 	{
 		owner = TIW
@@ -14,6 +14,7 @@ state=
 			arms_factory = 1
 			industrial_complex = 2
 			air_base = 3
+			dockyard = 8
 			12068 = {
 				naval_base = 10
 			}
