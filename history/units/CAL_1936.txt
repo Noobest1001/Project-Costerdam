@@ -25,7 +25,7 @@ division_template = {
 		infantry = { x = 1 y = 0 }
 		infantry = { x = 1 y = 1 }
     support = {
-
+            artillery = {x = 0 y = 0}
     }
 }
 
