@@ -1,12 +1,12 @@
 ideologies = {
 	Anti_Revisionism = {
 		types = {
-			 Anti_Revisionism { can_be_randomly_selected = no}
+			 AntiRevisionism = { can_be_randomly_selected = no}
 		}
 		dynamic_faction_names = {
 			"faction_AntiRevisionism_Counter_Revolution_bloc"
 		}
-		color = { 128 128 128 } //Gray is temp color
+		color = { 128 128 128 } #Gray is temp color
 		war_impact_on_world_tension = -15
 		faction_modifiers = {
 			faction_impact_on_world_tension = 25

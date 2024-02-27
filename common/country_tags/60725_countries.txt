@@ -1,3 +1,5 @@
 VRG = "countries/Virginia.txt"
 CAL = "countries/California.txt"
 BPG = "countries/German Provional Gov.txt"
+TIW = "countries/Taiwan.txt"
+BDI = "countries/Bejing.txt"

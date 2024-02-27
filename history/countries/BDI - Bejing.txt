@@ -1,5 +1,5 @@
+capital = 608
 oob = "BDI_1936"
-capital = 9843
 set_research_slots = 3
 set_stability = 0.75
 set_war_support = 0.05
