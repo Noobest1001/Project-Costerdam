@@ -20,15 +20,12 @@ state=
 			}
 		}
 		victory_points = {
-			7186 25 
-		}
-		victory_points = {
 			12068 5 
 		}
 
 	}
 	provinces={
-		1091 1175 4096 7186 7214 9955 11914 11959 12027 12068
+		1091 1175 11914 12027 12068
 		}
 
 	local_supplies = 0.0 
