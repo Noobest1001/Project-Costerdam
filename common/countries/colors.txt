@@ -829,3 +829,11 @@ BPG = {
 	color = rgb {155 155 137}
 	color_ui = rgb {155 155 137}
 }
+TIW = {
+	color = rgb {68 0 88}
+	color_ui = rgb {68 0 88}
+}
+BDI = {
+	color = {227 159 0}
+	color_ui = {227 159 0}
+}
