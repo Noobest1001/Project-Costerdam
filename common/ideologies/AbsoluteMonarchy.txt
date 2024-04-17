@@ -1,0 +1,36 @@
+ideologies = {
+    AbsoluteMonarchism = {
+        types = {
+            Absolute = {}
+        }
+        dynamic_faction_names = {
+            "FACTION_NAME_ABSOLUTEMONARCHISM_1"
+        }
+        color = {62 9 79}
+        rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.05
+			lend_lease_tension = 0.00
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0.25
+			annex_cost_factor = 0.75
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+    }
+}
