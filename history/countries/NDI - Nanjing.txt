@@ -1,5 +1,5 @@
 capital = 743
-oob = "BDI_1936"
+oob = "NDI_1936"
 set_research_slots = 3
 set_stability = 0.75
 set_war_support = 0.05
@@ -26,4 +26,5 @@ set_popularities = {
 	fascism = 20
 	communism = 20
 	neutrality = 20
+	absolutemonarchism = 0
 }

@@ -1,10 +1,9 @@
-oob = "VRG_1936"
+oob = "BAR_1936"
 capital = 9517
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
-
 
 add_ideas = {
 	scraping_the_barrel
@@ -15,16 +14,6 @@ add_ideas = {
 	civilian_economy
 }
 
-
-
-
-#For start date 1939.1.1
-1939.1.1 = {
-	add_political_power = 200
-	oob = "CAL_1939"
-}
-
-#Politics for 1936.1.1
 set_politics = {
 	ruling_party = democratic
 	last_election = "1935.6.16"
@@ -36,14 +25,5 @@ set_popularities = {
 	fascism = 20
 	communism = 40
 	neutrality = 20
-}
-
-#Politics for 1939.1.1
-1939.1.1 = {
-	set_popularities = {
-		democratic = 40
-		fascism = 20
-		communism = 20
-		neutrality = 20
-	}
+	absolutemonarchism = 0
 }

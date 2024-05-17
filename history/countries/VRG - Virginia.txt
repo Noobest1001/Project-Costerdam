@@ -16,26 +16,18 @@ add_ideas = {
 }
 
 
-
-
-#For start date 1939.1.1
-1939.1.1 = {
-	add_political_power = 200
-	oob = "VRG_1939"
-}
-
-#Politics for 1936.1.1
 set_politics = {
 	ruling_party = communism
 	last_election = "1935.6.16"
 	election_frequency = 60
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	democratic = 20
 	fascism = 20
 	communism = 40
 	neutrality = 20
+	absolutemonarchism = 0
 }
 
 #Politics for 1939.1.1

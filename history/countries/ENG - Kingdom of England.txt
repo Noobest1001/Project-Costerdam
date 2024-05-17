@@ -1,4 +1,4 @@
-oob = "POL_1936"
+oob = "ENG_1936"
 capital = 378
 set_research_slots = 3
 set_stability = 0.5
@@ -15,16 +15,17 @@ add_ideas = {
 	civilian_economy
 }
 
+#Politics for 1936.1.1
 set_politics = {
 	ruling_party = absolutemonarchism
-	last_election = "1935.6.16"
+	last_election = "1910.6.10"
 	election_frequency = 60
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 20
-	fascism = 20
-	communism = 10
-	neutrality = 20
-    absolutemonarchism = 30
+	democratic = 17
+	fascism = 2
+	communism = 4
+	neutrality = 2
+	absolutemonarchism = 75
 }

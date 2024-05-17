@@ -15,16 +15,6 @@ add_ideas = {
 	civilian_economy
 }
 
-
-
-
-#For start date 1939.1.1
-1939.1.1 = {
-	add_political_power = 200
-	oob = "BDI_1939"
-}
-
-#Politics for 1936.1.1
 set_politics = {
 	ruling_party = democratic
 	last_election = "1935.6.16"
@@ -36,6 +26,7 @@ set_popularities = {
 	fascism = 20
 	communism = 20
 	neutrality = 20
+	absolutemonarchism = 0
 }
 
 #Politics for 1939.1.1

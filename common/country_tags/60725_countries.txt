@@ -1,8 +1,9 @@
-VRG = "countries/Virginia.txt"
-CAL = "countries/California.txt"
 BAR = "countries/Bavaria.txt"
-TIW = "countries/Taiwan.txt"
 BDI = "countries/Bejing.txt"
+CAL = "countries/Califonia.txt"
 NDI = "countries/Nanjing.txt"
 POL = "countries/Poland.txt"
+PRU = "countries/Prussia.txt"
+TIW = "countries/Taiwan.txt"
+VRG = "countries/Virginia.txt" 
 

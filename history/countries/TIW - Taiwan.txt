@@ -1,4 +1,4 @@
-oob = "TIW_1936.txt"
+oob = "TIW_1936"
 capital = 524
 set_research_slots = 3
 set_stability = 1.0
@@ -36,14 +36,5 @@ set_popularities = {
 	fascism = 20
 	communism = 10
 	neutrality = 50
-}
-
-#Politics for 1939.1.1
-1939.1.1 = {
-	set_popularities = {
-		democratic = 40
-		fascism = 20
-		communism = 20
-		neutrality = 20
-	}
+	absolutemonarchism = 0
 }
