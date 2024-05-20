@@ -9,14 +9,33 @@ focus_tree = {
     }
     focus = {
         id = BAR_political_start
+        x = 10
+        y = 0
+        cost = 8
         available = {
             AND = {
+                exists = yes
                 NOT = {
                     has_government = fascism
                     has_government = communism    
                 }
-                has_war = no
-                
+                OR = {
+                has_offencive_war = no
+                has_border_war = no
+                }
+            }
+        }
+        cancel = {
+            OR = {
+            has_border_war = yes
+            has_offencive_war = yes
+            has_government = fascism
+            has_government = communism
+            }
+        }
+        completion_reward = {
+            BAV = {
+                country_event = BAV_PRO_event.0
             }
         }
     }
