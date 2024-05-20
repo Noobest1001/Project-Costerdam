@@ -7,4 +7,5 @@ PRU = "countries/Prussia.txt"
 TIW = "countries/Taiwan.txt"
 VRG = "countries/Virginia.txt"
 KEG = "countries/South_England.txt" 
+PEG = "countries/North_England.txt"
 

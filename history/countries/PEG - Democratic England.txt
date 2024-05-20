@@ -1,10 +1,9 @@
-oob = "ENG_1936"
+oob = "PEG_1936"
 capital = 378
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
-
 
 add_ideas = {
 	scraping_the_barrel
@@ -15,7 +14,6 @@ add_ideas = {
 	civilian_economy
 }
 
-#Politics for 1936.1.1
 set_politics = {
 	ruling_party = absolutemonarchism
 	last_election = "1910.6.10"
@@ -23,9 +21,9 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 17
+	democratic = 75
 	fascism = 2
-	communism = 4
+	communism = 14
 	neutrality = 2
-	absolutemonarchism = 75
+	absolutemonarchism = 3
 }

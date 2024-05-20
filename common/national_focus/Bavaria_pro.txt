@@ -1,0 +1,24 @@
+focus_tree = {
+    id = BAR_focus_tree
+    country = {
+        factor = 0
+        modifier = {
+            add = 20
+            original_tag = BAR
+        }
+    }
+    focus = {
+        id = BAR_political_start
+        available = {
+            AND = {
+                NOT = {
+                    has_government = fascism
+                    has_government = communism    
+                }
+                has_war = no
+                
+            }
+        }
+    }
+
+}
