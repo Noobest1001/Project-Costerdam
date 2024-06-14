@@ -16,8 +16,10 @@ focus_tree = {
             AND = {
                 exists = yes
                 NOT = {
-                    has_government = fascism
-                    has_government = communism    
+                    AND = {
+                        has_government = fascism
+                        has_government = communism
+                    }    
                 }
                 OR = {
                 has_offencive_war = no
